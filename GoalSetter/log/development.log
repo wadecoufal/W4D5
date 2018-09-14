@@ -1,0 +1,4 @@
+  [1m[35m (564.7ms)[0m  [1m[35mCREATE DATABASE "GoalSetter_development" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
+  [1m[35m (272.4ms)[0m  [1m[35mCREATE DATABASE "GoalSetter_test" ENCODING = 'unicode'[0m
+  ↳ bin/rails:9
